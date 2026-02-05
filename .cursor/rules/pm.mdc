@@ -70,7 +70,7 @@ dependencies:
 
 ## File Reference
 
-The complete agent definition is available in [.bmad-core/agents/pm.md](mdc:.bmad-core/agents/pm.md).
+The complete agent definition is available in [_bmad/bmm/agents/pm.md](mdc:_bmad/bmm/agents/pm.md).
 
 ## Usage
 

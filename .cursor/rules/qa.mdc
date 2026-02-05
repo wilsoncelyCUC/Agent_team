@@ -63,7 +63,7 @@ dependencies:
 
 ## File Reference
 
-The complete agent definition is available in [.bmad-core/agents/qa.md](mdc:.bmad-core/agents/qa.md).
+The complete agent definition is available in [_bmad/bmm/agents/qa.md](mdc:_bmad/bmm/agents/qa.md).
 
 ## Usage
 

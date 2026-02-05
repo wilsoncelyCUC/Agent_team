@@ -80,7 +80,7 @@ dependencies:
 
 ## File Reference
 
-The complete agent definition is available in [.bmad-core/agents/bmad-orchestrator.md](mdc:.bmad-core/agents/bmad-orchestrator.md).
+The complete agent definition is available in [_bmad/bmm/agents/bmad-orchestrator.md](mdc:_bmad/bmm/agents/bmad-orchestrator.md).
 
 ## Usage
 

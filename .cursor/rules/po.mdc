@@ -71,7 +71,7 @@ dependencies:
 
 ## File Reference
 
-The complete agent definition is available in [.bmad-core/agents/po.md](mdc:.bmad-core/agents/po.md).
+The complete agent definition is available in [_bmad/bmm/agents/po.md](mdc:_bmad/bmm/agents/po.md).
 
 ## Usage
 

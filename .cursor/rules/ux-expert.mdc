@@ -77,7 +77,7 @@ dependencies:
 
 ## File Reference
 
-The complete agent definition is available in [.bmad-core/agents/ux-expert.md](mdc:.bmad-core/agents/ux-expert.md).
+The complete agent definition is available in [_bmad/bmm/agents/ux-expert.md](mdc:_bmad/bmm/agents/ux-expert.md).
 
 ## Usage
 
